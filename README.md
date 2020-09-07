@@ -1,0 +1,2 @@
+# appwrite-vue
+Appwrite + Vue = ❤️
